@@ -1,5 +1,5 @@
 #include <stdio.h>
-void mian()
+void main()
 {
 	printf("int main\n");
 }
